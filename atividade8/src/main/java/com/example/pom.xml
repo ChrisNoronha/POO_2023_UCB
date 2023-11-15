@@ -1,0 +1,21 @@
+<project>
+    <!-- Outras configurações do projeto -->
+
+    <build>
+        <plugins>
+            <!-- Outros plugins do Maven -->
+        </plugins>
+    </build>
+
+    <dependencies>
+        <!-- Dependência do JUnit -->
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.12</version>
+            <scope>test</scope>
+        </dependency>
+
+        <!-- Outras dependências do projeto -->
+    </dependencies>
+</project>
